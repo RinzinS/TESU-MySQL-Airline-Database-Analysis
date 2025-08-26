@@ -23,12 +23,12 @@ To determine optimal airline carriers based on:
 - Market share calculations using nested queries
 - Delay analysis by route and carrier
 
-## 📁 Files Included
-- `Final_Submission.pdf`: Full report with visuals, query breakdowns, and executive summary
+Files Included
+- `MySQL Final Project.pdf`: Full report with visuals, query breakdowns, and executive summary
 - `README.md`: Project overview and context
 
-## 🎓 Academic Context
+Academic Context
 Completed as part of the Master's in Data Science & Analytics program at Thomas Edison State University (DSI-5300-MD900). Demonstrates proficiency in SQL, schema-driven analysis, and data storytelling.
 
-## ✅ Recommendation
+Recommendation
 Delta Airlines is the top choice for travelers prioritizing punctuality and coverage from ATL. Southwest is a strong alternative for regional travel in Florida.
