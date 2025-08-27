@@ -28,9 +28,11 @@ Files Included
 - `README.md`: Project overview and context
 
 Academic Context
+
 Completed as part of the Master's in Data Science & Analytics program at Thomas Edison State University (DSI-5300-MD900). Demonstrates proficiency in SQL, schema-driven analysis, and data storytelling.
 
 Recommendation
+
 Delta Airlines is the top choice for travelers prioritizing punctuality and coverage from ATL. Southwest is a strong alternative for regional travel in Florida.
 
 Personal Reflection
