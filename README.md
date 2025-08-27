@@ -34,4 +34,5 @@ Recommendation
 Delta Airlines is the top choice for travelers prioritizing punctuality and coverage from ATL. Southwest is a strong alternative for regional travel in Florida.
 
 Personal Reflection
+
 This project strengthened my ability to extract insights from structured databases and communicate findings through visual storytelling. It also reinforced my SQL proficiency and prepared me for Python-based automation and future analytics work.
